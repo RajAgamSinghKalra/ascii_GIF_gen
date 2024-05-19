@@ -18,4 +18,7 @@ By mapping pixels to ASCII characters by converting the gif into a gray scaled v
 ![Alt text](https://i.imgur.com/5LvTrE6.gif)
 ![Alt text](https://i.imgur.com/GC825kc.gif)
 
-## this project is reuploaded from my old github (which was hacked)
+## license
+This project is licensed under the [MIT License](https://opensource.org/licenses/MIT). Feel free to use, modify, and distribute it.
+
+#### this is an old project from my old github which was hacked.
